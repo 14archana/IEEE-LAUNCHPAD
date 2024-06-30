@@ -1,11 +1,11 @@
-# Nakhate Harika
+# Sona John
 
 ### About Me
 
 > - 🔭 I’m currently working on honing my programming skills and exploring new technologies.
 > - 🌱 I’m constantly learning and expanding my knowledge in the field of software development.
-> - 🎓 Graduated Btech ECE @ LBS Institute Of Technology for Women's Trivandrum.
-> - Fun fact about me: I can speak six languages!🌍🗣️
+> - 🎓 Btech CSE final year student @ college of engineering pathanapuram.
+> - Fun fact about me: I can speak three languages!🌍🗣️
 
 
 
@@ -51,7 +51,7 @@
 - If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 #### Competitive Website Profiles:
-- https://www.hackerrank.com/profile/nharika203
+- none
 
 
 
